@@ -4,7 +4,7 @@
 ## Hi 👋 , I'm [Turbo-King](http://ahao.club)
 
 - 👀 Read more about my [Blog](http://ahao.club)
-- 👀 Talk with me by [Email](mailto:leo@runlin.live)
+- 👀 Talk with me by [Email](mailto:turbo.ahao@foxmail.com)
 - 👀 Follow me on [Twitter](https://twitter.com/TurboKing1024) [bilibili](https://space.bilibili.com/476268871)
 
 
