@@ -8,6 +8,7 @@
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+![ViewCount](https://views.whatilearened.today/views/github/Turbo-King/Turbo-King.svg?cache=remove)
 
  <!---
  Turbo-King/Turbo-King is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
