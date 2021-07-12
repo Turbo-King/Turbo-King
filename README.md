@@ -1,9 +1,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turbo-King&layout=compact" />
 
-## Hi 👋 , I'm [Turbo](https://wangrunlin.com/)
+## Hi 👋 , I'm [Turbo](http://ahao.club)
 
-- 👀 Read more about my [Blog](https://wangrunlin.com/blog)
+- 👀 Read more about my [Blog](http://ahao.club)
 - 👀 Talk with me by [Email](mailto:leo@runlin.live)
 - 👀 Follow me on [Twitter](https://twitter.com/TurboKing1024) [bilibili](https://space.bilibili.com/476268871)
 
