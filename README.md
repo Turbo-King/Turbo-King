@@ -1,7 +1,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turbo-King&layout=compact" />
 
-## Hi 👋 , I'm [Turbo](http://ahao.club)
+## Hi 👋 , I'm [Turbo-King](http://ahao.club)
 
 - 👀 Read more about my [Blog](http://ahao.club)
 - 👀 Talk with me by [Email](mailto:leo@runlin.live)
