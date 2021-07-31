@@ -8,9 +8,9 @@
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
- <a href="LICENSE" target="_blank">
+<!--  <a href="LICENSE" target="_blank">
   <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-red.svg" />
- </a>
+ </a> -->
 ![ViewCount](https://views.whatilearened.today/views/github/Turbo-King/Turbo-King.svg?cache=remove)
 
  <!---
