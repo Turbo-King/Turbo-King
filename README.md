@@ -1,8 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Turbo-King&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 
-<h2>  Hey 👋, I'm <a href="https://ahao.club" target="_blank">Turbo-King</a>! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2>
+<h2>  Hey 👋, I'm <a href="https://turbo-king.github.io" target="_blank">Turbo-King</a>! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2>
 
- - Read more about my [Blog](http://ahao.club)
+ - Read more about my [Blog](https://turbo-king.github.io)
  - Talk with me by [Email](mailto:turbo.ahao@foxmail.com)
  - Follow me on [Twitter](https://twitter.com/TurboKing1024) [bilibili](https://space.bilibili.com/476268871)
 
