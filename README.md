@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Turbo-King&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+<img align="right" src="https://readme-stats.clckblog.space/api?username=Turbo-King&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 
 <h2>  Hey 👋, I'm <a href="https://turbo-king.github.io" target="_blank">Turbo-King</a>! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2>
 
